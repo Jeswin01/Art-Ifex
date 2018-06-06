@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>button_get_output.png</file>
+    <file>button_submit.png</file>
+    <file>button_submit1.png</file>
+    <file>blueprism.jpg</file>
+  </qresource>
+</RCC>
